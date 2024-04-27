@@ -15,8 +15,7 @@ namespace Associative_Arrays
                                    // in case d and e had been public
 
             Console.WriteLine("a: {0}, d: {1}", a, d);
-            Console.ReadLine();
-
+            //
         }
     }
 }
